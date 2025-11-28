@@ -1,0 +1,16 @@
+{
+  "name": "undead-witch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node slashcommand.js"
+  },
+  "private": true,
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
